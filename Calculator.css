@@ -1,4 +1,6 @@
 
+
+
 .header-logo {
   width: 100px;
   height: auto;
@@ -20,6 +22,7 @@
   margin-bottom: 16px;
   margin-right: 8px;
 
+
 .btn-primary {
   background-color: #214e8f;
   color: white;
@@ -27,6 +30,8 @@
 .calculator-btn {
   max-width: 300px;
   align-content: center;
+
+
 
 
 }
